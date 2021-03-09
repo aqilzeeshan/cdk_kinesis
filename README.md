@@ -1,3 +1,5 @@
+- For explanation https://medium.com/avmconsulting-blog/amazon-kinesis-enhanced-fan-out-4e500411a414
+
 # Welcome to your CDK TypeScript project!
 
 This is a blank project for TypeScript development with CDK.
